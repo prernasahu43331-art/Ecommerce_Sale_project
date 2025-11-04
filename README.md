@@ -24,16 +24,4 @@ This project analyzes sales data from a **Superstore dataset** to uncover insigh
 - Top-performing product categories and sub-categories  
 - Sales contribution by category (via interactive pie charts)
 
----
 
-## 📂 Dataset
-The project uses the dataset:
-> **Sample - Superstore.csv**  
-*(Make sure to include this CSV file in the same directory as the notebook.)*
-
----
-
-## 🚀 How to Run the Notebook
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/Ecommerseproject1.git
